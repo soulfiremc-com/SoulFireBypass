@@ -1,6 +1,6 @@
-# SoulFireBypass
+# Soulfire Bypass
 
-Authentication bypass for SoulFire test clients on Velocity and BungeeCord proxies that you control.
+Authentication bypass for Soulfire test clients on Velocity and BungeeCord proxies that you control.
 
 Configured keys permit bypass of online authentication. Keep keys private and use this plugin only in an authorized test environment.
 
